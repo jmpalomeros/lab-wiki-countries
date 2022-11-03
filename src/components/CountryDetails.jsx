@@ -68,7 +68,7 @@ function CountryDetails() {
                </Link>} </li> </ul>          
 
             })}
-
+            {/* me quedaría por hacer que el link envie al pais limitrofe */}
             
           </td>
         </tr>
